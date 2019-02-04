@@ -1,0 +1,23 @@
+{
+  "name": "cover-app-ishan",
+  "version": "1.0.0",
+  "description": "Everyone writes a cover letter, how about a cover app?",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishansharma/hire-ishan.git"
+  },
+  "author": "Ishan Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ishansharma/hire-ishan/issues"
+  },
+  "homepage": "https://github.com/ishansharma/hire-ishan#readme",
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
