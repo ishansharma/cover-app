@@ -1,0 +1,40 @@
+/**
+ * Custom styles for presentation
+ * Feb 03, 2019 - Ishan Sharma
+ */
+
+h1 {
+    color: #2090ea;
+    font-size: 36px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+p {
+    color: #333333;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 36px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #008cdd;
+}
+
+a:hover a:focus {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.footnote {
+    font-size: 16px;
+    vertical-align: bottom;
+}
