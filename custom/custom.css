@@ -1,0 +1,72 @@
+/**
+ * Custom styles for presentation
+ * Feb 03, 2019 - Ishan Sharma
+ */
+
+h1 {
+    color: #2090ea;
+    font-size: 36px;
+    font-family: "Open Sans", sans-serif;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    text-align: center;
+    text-shadow: none;
+}
+
+p, ul {
+    color: #333333;
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 36px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: none;
+}
+
+a {
+    color: #008cdd;
+    text-shadow: none;
+}
+
+a:hover a:focus {
+    color: #23527c;
+    text-decoration: underline;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.footnote {
+    font-size: 16px;
+    vertical-align: bottom;
+}
+
+.message {
+    border-radius: 10px;
+    width: 65%;
+    padding: 15px 10px;
+}
+
+.in {
+    background: #eef0ef;
+}
+
+.out {
+    background: #2190ea;
+    color: #edf6fd;
+    margin-left: 35%;
+    margin-bottom: 20px;
+}
+
+.out a {
+    color: #edf6fd;
+    text-decoration: underline;
+    padding: 3px;
+    background: none;
+}
+
+.out a:hover, .out a:focus {
+    color: #edf6fd;
+    text-decoration: underline;
+}
