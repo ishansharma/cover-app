@@ -4,6 +4,9 @@ function createWindow() {
     // Create the browser window.
     win = new BrowserWindow({width: 800, height: 600});
 
+    // make sure we don't resize the window
+    win.setResizable(false);
+
     // and load the index.html of the app.
     win.loadFile('index.html');
 
