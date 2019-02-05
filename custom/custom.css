@@ -38,3 +38,30 @@ a:hover a:focus {
     font-size: 16px;
     vertical-align: bottom;
 }
+
+.message {
+    border-radius: 10px;
+    width: 80%;
+    padding: 15px 10px;
+}
+
+.in {
+    background: #eef0ef;
+}
+
+.out {
+    background: #2190ea;
+    color: #edf6fd;
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+.out a {
+    color: #edf6fd;
+    text-decoration: underline;
+}
+
+.out a:hover, .out a:focus {
+    color: #edf6fd;
+    text-decoration: underline;
+}
