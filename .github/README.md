@@ -7,7 +7,7 @@ you can view the web version instead.
 
 * [Mac](https://ishan.co/wp-content/uploads/2019/02/cover-app-ishan-1.0.0-mac.zip) 
 * [Windows](https://ishan.co/wp-content/uploads/2019/02/cover-app-ishan-Setup-1.0.0.exe_.zip)
-* [Web version](https://ishansharma.github.io/cover-app/)
+* [Web version](https://ishansharma.github.io/cover-app/view.html)
 
 ## Non-interactive GIF
 ![First 3 slides](https://i.imgur.com/u8SxzSK.gif)
